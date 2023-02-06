@@ -14,5 +14,5 @@ https://youtu.be/kQPUWryXwag
 3. Paste your API key in sheet API.
 4. Create a new Office Script (from the Automate tab - you may have to go to Excel on the Web if you don't have the automate tab in Desktop)
 5. Copy and paste the code in the Office Script (.ts) file inside your script.
-6. If you'd like to have a button for your script and call it "ASK" or whatever you like.
+6. If you'd like to have a button for your script, insert a button. If you're not sure how, this video will help: https://youtu.be/djf3tBIYmCw
 7. Enjoy :) 
