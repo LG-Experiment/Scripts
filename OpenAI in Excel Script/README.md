@@ -16,3 +16,7 @@ https://youtu.be/kQPUWryXwag
 5. Copy and paste the code in the Office Script (.ts) file inside your script.
 6. If you'd like to have a button for your script, insert a button. If you're not sure how, this video will help: https://youtu.be/djf3tBIYmCw
 7. Enjoy :) 
+
+## Requirements
+
+ Microsoft 365 Enterprise or Business, OneDrive for Business / SharePoint
