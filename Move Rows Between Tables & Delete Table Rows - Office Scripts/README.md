@@ -15,7 +15,8 @@ Download the Excel file.
 Create a new Office Script (from the Automate tab - you may have to go to Excel on the Web if you don't have the automate tab in Desktop)
 Copy and paste the code in the Office Script (.ts) file inside your script.
 If you'd like to have a button for your script, insert a button. If you're not sure how, this video will help: https://youtu.be/djf3tBIYmCw
+
 You can then setup Power Automate to run the script for you. Details are in the video.
-Requirements
+## Requirements
 Microsoft 365 Enterprise or Business, OneDrive for Business / SharePoint
 
